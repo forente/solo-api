@@ -1,0 +1,12 @@
+body{
+  background-color: #F7F4BC;
+  margin: 32px;
+}
+
+img{
+  float: left;
+}
+
+div{
+  display:inline-block;
+}
